@@ -1,9 +1,0 @@
-{
-  "routes": [
-    "/dashboard",
-    "/forgot-password",
-    "/login",
-    "/register",
-    "/verify-email"
-  ]
-}
